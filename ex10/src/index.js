@@ -19,8 +19,7 @@ function myFunction() {
                 1: "CD",
                 2: "Vinyl",
                 3: "Record"
-            },
-        
+            }
         }
     };
     return myMusic;
