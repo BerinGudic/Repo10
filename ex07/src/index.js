@@ -1,11 +1,11 @@
-function myFunction(par1) {
+function myFunction(property) {
     var lion = {
         name: "Simba",
         legs: 4,
         tails: 1,
         roar: "roar-roar"
     };
-    delete lion[par1];
+    delete lion[property];
     return lion;
 }
 
