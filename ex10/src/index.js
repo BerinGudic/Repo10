@@ -12,7 +12,6 @@ function myFunction() {
             gold: true
         },
         002: {
-            id: 2,
             artist: "Metallica",
             title: "Prince Charming",
             release_year: 1997,
