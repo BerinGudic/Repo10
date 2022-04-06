@@ -10,4 +10,4 @@ function myFunction(myObj) {
 }
 
 console.log(myFunction(myPet));
-module.exports = {myPet, myFunction};
+module.exports = { myPet, myFunction };

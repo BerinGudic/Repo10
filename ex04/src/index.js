@@ -9,4 +9,4 @@ function myFunction(myObj) {
     return player;
 }
 console.log(myFunction(players));
-module.exports = {players, myFunction};
+module.exports = { players, myFunction };
