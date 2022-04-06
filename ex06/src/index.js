@@ -3,8 +3,8 @@ var lion = {
     legs: 4,
     tails: 1
 };
-function myFunction(par1, par2) {
-    lion[par1] = par2;
+function myFunction(property, value) {
+    lion[property] = value;
     return lion;
 }
 
